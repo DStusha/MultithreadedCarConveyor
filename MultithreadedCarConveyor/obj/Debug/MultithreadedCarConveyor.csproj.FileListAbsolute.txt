@@ -1,0 +1,6 @@
+c:\users\123\documents\visual studio 2017\Projects\MultithreadedCarConveyor\MultithreadedCarConveyor\bin\Debug\MultithreadedCarConveyor.exe.config
+c:\users\123\documents\visual studio 2017\Projects\MultithreadedCarConveyor\MultithreadedCarConveyor\bin\Debug\MultithreadedCarConveyor.exe
+c:\users\123\documents\visual studio 2017\Projects\MultithreadedCarConveyor\MultithreadedCarConveyor\bin\Debug\MultithreadedCarConveyor.pdb
+c:\users\123\documents\visual studio 2017\Projects\MultithreadedCarConveyor\MultithreadedCarConveyor\obj\Debug\MultithreadedCarConveyor.csprojResolveAssemblyReference.cache
+c:\users\123\documents\visual studio 2017\Projects\MultithreadedCarConveyor\MultithreadedCarConveyor\obj\Debug\MultithreadedCarConveyor.exe
+c:\users\123\documents\visual studio 2017\Projects\MultithreadedCarConveyor\MultithreadedCarConveyor\obj\Debug\MultithreadedCarConveyor.pdb
